@@ -10,7 +10,7 @@ export default function Home() {
       </p>
 
       <div>
-        <h3>My DevOps Journey</h3>
+        <h3>My DevOps Journey</h3>    
 
         <ul>
           <li>✅ Next.js</li>
